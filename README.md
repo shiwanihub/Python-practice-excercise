@@ -1,1 +1,1 @@
-# Python-practice-excercise day 1
+# Python-practice-exercise day 1
